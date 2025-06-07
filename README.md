@@ -41,6 +41,7 @@ Sketch > Include Library > Manage Libraries...
 * Monte o ESP32 ou copie e cole o diagram.json
 ![ESP-32](esp32.png)
 ### 2. Node-RED
+![Node-Red](fluxo.png)
 
 * Inicie o Node-RED: `node-red`
 * Acesse: `http://localhost:1880`
