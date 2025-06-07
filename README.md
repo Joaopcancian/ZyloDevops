@@ -2,6 +2,7 @@
 
 Sistema embarcado com ESP32, sensores ambientais e comunicação MQTT, integrando um painel Node-RED para visualização de temperatura e umidade em tempo real.
 
+Link Wokwi: https://wokwi.com/projects/432872899654483969
 ---
 
 ## 📅 Requisitos
