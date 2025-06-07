@@ -38,7 +38,7 @@ Sketch > Include Library > Manage Libraries...
 * Configure a porta: Tools > Port
 * Carregue o sketch
 * Abra o Serial Monitor (115200 baud)
-
+![ESP-32](docs/esp32.png)
 ### 2. Node-RED
 
 * Inicie o Node-RED: `node-red`
