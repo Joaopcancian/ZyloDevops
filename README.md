@@ -38,6 +38,7 @@ Sketch > Include Library > Manage Libraries...
 * Configure a porta: Tools > Port
 * Carregue o sketch
 * Abra o Serial Monitor (115200 baud)
+* Monte o ESP32 ou copie e cole o diagram.json
 ![ESP-32](esp32.png)
 ### 2. Node-RED
 
