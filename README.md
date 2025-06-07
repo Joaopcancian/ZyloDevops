@@ -46,7 +46,7 @@ Sketch > Include Library > Manage Libraries...
 * Inicie o Node-RED: `node-red`
 * Acesse: `http://localhost:1880`
 * Instale a paleta `node-red-dashboard` via Menu > Manage Palette
-* Importe o `flow.json` de `node-red/`
+* Importe o `flow.json`
 * Faça o deploy
 * Acesse o dashboard em `http://localhost:1880/ui`
 
@@ -78,12 +78,14 @@ Sketch > Include Library > Manage Libraries...
 
 ---
 
-## 🌍 Demonstração Visual
-
----
-
 > Repositório criado para atender aos requisitos mínimos do projeto IoT com ESP32 + Node-RED + MQTT + Dashboard.
 
 ---
 
-**Autor:** João Pedro - RM555341
+## 🎓 Autores
+
+João Pedro Cancian Corrêa – RM: 555341
+Giulia Camillo - RM: 554473
+Caroline de Oliveira - RM: 559123
+
+Desenvolvido como parte da Sprint 1 - 3º Semestre
