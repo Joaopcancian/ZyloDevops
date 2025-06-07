@@ -62,7 +62,7 @@ Sketch > Include Library > Manage Libraries...
 ---
 
 ## 📊 Dashboard Node-RED
-
+![Dashboard](dashboard.png)
 * **Gráfico de Temperatura:** linha do tempo
 * **Gauge de Umidade:** mostrador de ponteiro
 * **Status dos LEDs:** automático via ESP32
