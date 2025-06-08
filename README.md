@@ -79,10 +79,6 @@ Sketch > Include Library > Manage Libraries...
 
 ---
 
-> Repositório criado para atender aos requisitos mínimos do projeto IoT com ESP32 + Node-RED + MQTT + Dashboard.
-
----
-
 ## 🎓 Autores
 
 João Pedro Cancian Corrêa – RM: 555341
